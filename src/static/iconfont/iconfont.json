@@ -1,0 +1,114 @@
+{
+  "id": "2350893",
+  "name": "dnpicture",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "128750",
+      "name": "video",
+      "font_class": "video",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "438021",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "494433",
+      "name": "collect_1f",
+      "font_class": "collect1f",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "1290346",
+      "name": "Attention",
+      "font_class": "Attention",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "4352724",
+      "name": "delete",
+      "font_class": "delete1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "4874755",
+      "name": "right_",
+      "font_class": "right_",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "6151139",
+      "name": "pause circle-fill",
+      "font_class": "pausecircle-fill",
+      "unicode": "e7cb",
+      "unicode_decimal": 59339
+    },
+    {
+      "icon_id": "7275219",
+      "name": "Play (Filled)",
+      "font_class": "PlayFilled",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "7573264",
+      "name": "movie",
+      "font_class": "movie",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "9928436",
+      "name": "delete",
+      "font_class": "delete2",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "14981314",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
+      "icon_id": "16426763",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "17385083",
+      "name": "left",
+      "font_class": "left",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "18427998",
+      "name": "Add outlined icon",
+      "font_class": "Addoutlinedicon",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "15908320",
+      "name": "mine",
+      "font_class": "mine",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    }
+  ]
+}

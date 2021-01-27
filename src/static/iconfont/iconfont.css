@@ -1,0 +1,77 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1611675654202'); /* IE9 */
+  src: url('iconfont.eot?t=1611675654202#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAjsAAsAAAAAENgAAAieAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCFHAqRTI4RATYCJANACyIABCAFhG0HgUUbMA6jopRwlpH9VQJPRXL1WcVU/YmzCsPAMfIPbSRjaBXWfPWz8VjVVxixjQueh/u958bLtB+1ak+Q0WjoE5toA03g/as1DYMwNz4so1JGG7jbg8zBz/6GXNHpKlUhW+EqdHn4vL2//WJKMI7ieICdhxl2HtAkkGw/4Nb+bYMDYYMed3joMCov291mBYfZYDBtpr24sK85K4L4ZXP+iIL/df53CiEZ1lWaA57Pt5+rJom1rWGHaS//5veFt9tw+5hIXcgkQpqIkngkaBCilGIeEwZjM05ePwqsqG2+ISA115Fcji8fEwWOkYJJu1HzRMGj4AkcEZeHETZTcprE5ZcHgHfj4eWDHlEQKqhifr1sRyIx6aof1EbW+qJVVwtI6sDAmQQuMW9k/T9gFjozqDRqpsIHzDXoX6DsajgLUl8DZSg0hssn/d/5gzGYVEnrZacTc4xbS6ByFVcIhB2jykliE5no7Z83i1E5jf3rrzCplHwoJjUgxyRIpi3AOGgSmAJ0X2AC0AOBCUFnAGOgC4FJQY8BpgTtAklz9CfACOg/kI8Ee2c+MuwfzCECUGs2lhJcS+iF3RjzZtQbPyzIJMq2Rb0IPGqVc7cYMBxXKNrGqa2dcdyiz8JJg0qhUClwDTosXm+04/p4daxN4cBxk2kcwYfApJwIvqAG94cRjIvMxP11gPrqtQTf4DUdKEHoCeEPTORzNtRYHIx6ZESb0O1q+AM92DVkVMkgt9dfZ6HpqrrSMmsxrQ6v1/I2tlgUXWqosDOsXFEeaMMwUkAzwc+EwzKXYyMRLl8cCnF9dDCIPAL0wDAN4TCNaGF41aLVsajvYCtN/XxbYESWNtYctvtH7g/1zjORlp5W1uCv6+xoI1/Blc8iNLkGD6iY1MCyskS6JYHVWktc6glR7EntNFRbD6Fs9/bIheGChRZIfw0pkeEIW3GhtUgeo3q3V3czSNn+UKr+TqSlHwiPAd/FVhqEBdxdy19iFDrlaNDUXEYiWe6Kdqo4HbdN5kimpi4WLWOR4smszNf7LHSx6Kvzkwwt+AOcjWUkroG3Tg8GEwRRlG0nIlpZlmhJsAilIIq8jHAVNllaykjkkQgyksJRq+UjA1vI1vMvOM/0QR8Maw2HlwpVjiQluUH2WRtw0+sO+Nu5hNKyapsN3f2sd5250hyzLtBl2+RyF8LV8tVW4E2jIRHucp+TFwGsqRQgsUkyb50w2y1xtskygnCSJX+dtUR0qVGZ1SYvXw8o0Q9enQZHeQEEw7kNWgJDk9sn7gzfFHd2pIuLvIhoiahaX/DppiOA2HF1neAvXDmCHAin4X6Tn714cGUg1Dsrq3dehwMgk3m2wIsYS0+T4pBpg5ExbjAZqpNT3jyaDf+v/FhBUQqV8zFFSZxpROXDWwqlUgHpLRFCQmdAIwQCQAUA5VCav7eZn60cf/MVZRKOzLpYubf1S8OjqEX/4bqbDwsbzNGXVICICOXiiisC+poaf3PlMxP83X9kUYt8p8fjzG9RdIoWd+Z5vPlUUYtTY/Ior5fKQzYq3+vJc6pSnsiowV69wmqxGg3ViNCBIBDm/WcZeRm5Z+bnzYceP5E44LLjTsLwlwTEAf5SNBLsP/SxCXdw2a9GjhmS+ebim8GZMR+1qevQJBkQ2qgf7D+0H9RPlBJ45cAOMHtEgew5uGlRf+OwZvTTMh07pEmKMrkLm/JsmhrKzvtYDqCw3OsKdJ0LVZF+UT0/Z103V919Q4z0sBoiCXYQ6b3a9ty36Ob6+CnQt7L1L1x2lnqIGoizkrJVn1Wzob/DfdWwYtjN1fTqYYdn0jOHbcundxocbrHN7YLbiRkrDFfdjv5xFxfcSec73I4Ytcu04NsNf7b+89uv/gk1IwlZ+/kC+L/28ZP1NrAtefKYoyWm0vWPnwSuCLZ+kQzzEtq37iAeaPVzSf9Bc5Yv//ZswVprp9565WJ8cQzh7KQc3q17NNq4aM1i2/Au2M6bN3eqUkyUoTu56zdv7MR6jWm6NI1pbFyfZkzr/eN51FtZ5UUJARnmhaKy0nGjsvuxhYtjFzdGTTBisYj0iEYbnjZwbuOyjquTVqs3YH3b9/Pks9PJZwXDu21VT6tdpNXxS9u+rKlRWWOVMTUdHc1ML6E6/sLTpxfiq+HOm+2aip4/rYtb1PsX+NLXdXeqnUQlre6lXN3jbsmC8ami6EKP1cpeavABAIUl6Iw6AOwZr5uD/3MmoNxWZAYynds2AXWk2ywTyAxu64Su2YhrHsIijCbLRjmkyQzCqunZtJU9sUWCvVV5Uk0Jkv0bl2DC1S3bmp5eWB73vueQONKKKIh4px7GXgL4/38UgDYQ9gs7jMUaqbftPJao7bXtw2wAAOgLqv4E9gjLBQDAEJQj6KwXZQipf9pNrHXfv/oThmWJ9AmfDHVB6MiCreP0g35Va18fuz7rMyJkjkr/mcaWrEFMkQbBUx+TnZL8iimq/0gShMYmK4LKGmtPzxysgpQfg6e85tZvk8yQWfh8ywwOUJEZMLFtpMeegUDmDoRi9yB16sR+poPSJENw4pMAUfsCqvQJTO070mN/QGD0B0J1pEHqNdouZg7ClA4Q5gSCLXbM8OClXEUlc/I9qJWdo1tspDwDxqaLDXsD/+AJeMAqzMRrNSKSTGJw7Jj4B9YGFmFYAqeeJorG/b6MMtvjwSVKniEwR1pOgVnYlTW4wJPKSSlw//eAsmLNYcKqP2WfARQzZ2eGegYZIk8on2nVrsyMrSkjJNRKTFmIAoc5FmqB5X0BE0VrWwIc6dEF2MhYX9hNZqV6zTNuzVOsvjXZtdSRomE4ncEkWGwOyaV40ZQ9jICQE2CBoMiDtRM+ciiLe0SwfA3B58PDHebQKE3TRjRfxcANcgtdaawt3dr57thcACLrwtpA6nOOcjHMkeuMDg4yFiTV94QIK7LGg9gEOOMseSIBAA==') format('woff2'),
+  url('iconfont.woff?t=1611675654202') format('woff'),
+  url('iconfont.ttf?t=1611675654202') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1611675654202#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-video:before {
+  content: "\e6da";
+}
+
+.icon-delete:before {
+  content: "\e607";
+}
+
+.icon-collect1f:before {
+  content: "\e648";
+}
+
+.icon-Attention:before {
+  content: "\e614";
+}
+
+.icon-delete1:before {
+  content: "\e637";
+}
+
+.icon-right_:before {
+  content: "\e63b";
+}
+
+.icon-pausecircle-fill:before {
+  content: "\e7cb";
+}
+
+.icon-PlayFilled:before {
+  content: "\e664";
+}
+
+.icon-movie:before {
+  content: "\e6f8";
+}
+
+.icon-delete2:before {
+  content: "\e651";
+}
+
+.icon-search:before {
+  content: "\e721";
+}
+
+.icon-home:before {
+  content: "\e608";
+}
+
+.icon-left:before {
+  content: "\e616";
+}
+
+.icon-Addoutlinedicon:before {
+  content: "\e65d";
+}
+
+.icon-mine:before {
+  content: "\e60c";
+}
+
